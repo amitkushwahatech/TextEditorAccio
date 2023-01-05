@@ -1,3 +1,6 @@
 # TextEditorAccio
 
-![image](https://user-images.githubusercontent.com/120050605/210713565-d6148be8-c92b-4fb0-9add-b722d00bc4ca.png)
+## Open, edit, save, copy, paste, Select All, close, theme change, font size change, font color  
+
+![image](https://user-images.githubusercontent.com/120050605/210807512-eccb5c7c-4863-4607-95c0-6a56a1696d85.png)
+
